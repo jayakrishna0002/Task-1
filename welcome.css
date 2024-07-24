@@ -1,0 +1,16 @@
+body {
+    background-color:  rgb(10, 114, 105); 
+}
+
+h1{
+    padding: 19px;
+    color: #0e0c3a;
+    }
+
+.container {
+    background-color: rgba(51, 66, 232, 0.675);
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px;
+    margin: auto;
+}
